@@ -3,6 +3,24 @@
 
 // 1. Даний рядок тексту. Вивести його задом наперед
 
+// const str = 'I are baboon';
+// let reversedStr = '';
+
+// for (const char of str) {
+//     reversedStr = char + reversedStr;
+// }
+// console.log(reversedStr);
+
+
+
+// const str = 'I are baboon';
+// const reversedStr = str.split('').reverse().join('');
+// console.log(reversedStr);
+
+
+
+
+
 // 2. Написати функцію, яка приймає число з дрібною частиною і повертає тільки цілу частину
 
 // 3. Прийняти від користувача (за допомогою prompt) його ім’я і вивести його у модальне вікно великими літерами (‘alex’ -> ‘ALEX’)
